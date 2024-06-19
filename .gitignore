@@ -33,3 +33,8 @@ npm-debug.log*
 
 # vercel
 .vercel
+
+# .gitignore
+node_modules/
+dist/
+secure_keys/
